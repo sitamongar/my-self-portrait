@@ -5,9 +5,7 @@ const skillsData = [
   { name: "JavaScript (ES6)", category: "frontend" },
   { name: "VS Code", category: "tools" },
   { name: "Git & GitHub", category: "tools" },
-  { name: "Vercel Deployment", category: "tools" },
-  { name: "SQL Syntax", category: "database" },
-  { name: "Relational Tables", category: "database" },
+  
 ];
 
 // 2. Dynamic Skills Rendering Function
